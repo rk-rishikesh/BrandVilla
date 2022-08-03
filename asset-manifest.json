@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brandvilla/static/css/main.21d3f8e1.chunk.css",
+    "main.css": "/brandvilla/static/css/main.411da2ac.chunk.css",
     "main.js": "/brandvilla/static/js/main.7db7022d.chunk.js",
     "main.js.map": "/brandvilla/static/js/main.7db7022d.chunk.js.map",
     "runtime-main.js": "/brandvilla/static/js/runtime-main.61a49621.js",
@@ -10,7 +10,7 @@
     "static/js/2.c8b52a6b.chunk.js.map": "/brandvilla/static/js/2.c8b52a6b.chunk.js.map",
     "index.html": "/brandvilla/index.html",
     "static/css/2.1b77bb50.chunk.css.map": "/brandvilla/static/css/2.1b77bb50.chunk.css.map",
-    "static/css/main.21d3f8e1.chunk.css.map": "/brandvilla/static/css/main.21d3f8e1.chunk.css.map",
+    "static/css/main.411da2ac.chunk.css.map": "/brandvilla/static/css/main.411da2ac.chunk.css.map",
     "static/js/2.c8b52a6b.chunk.js.LICENSE.txt": "/brandvilla/static/js/2.c8b52a6b.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/brandvilla/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/loading.46872f70.gif": "/brandvilla/static/media/loading.46872f70.gif",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.61a49621.js",
     "static/css/2.1b77bb50.chunk.css",
     "static/js/2.c8b52a6b.chunk.js",
-    "static/css/main.21d3f8e1.chunk.css",
+    "static/css/main.411da2ac.chunk.css",
     "static/js/main.7db7022d.chunk.js"
   ]
 }
