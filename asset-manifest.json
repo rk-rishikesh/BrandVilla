@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/brandvilla/static/css/main.411da2ac.chunk.css",
-    "main.js": "/brandvilla/static/js/main.7db7022d.chunk.js",
-    "main.js.map": "/brandvilla/static/js/main.7db7022d.chunk.js.map",
-    "runtime-main.js": "/brandvilla/static/js/runtime-main.61a49621.js",
-    "runtime-main.js.map": "/brandvilla/static/js/runtime-main.61a49621.js.map",
-    "static/css/2.1b77bb50.chunk.css": "/brandvilla/static/css/2.1b77bb50.chunk.css",
-    "static/js/2.c8b52a6b.chunk.js": "/brandvilla/static/js/2.c8b52a6b.chunk.js",
-    "static/js/2.c8b52a6b.chunk.js.map": "/brandvilla/static/js/2.c8b52a6b.chunk.js.map",
-    "index.html": "/brandvilla/index.html",
-    "static/css/2.1b77bb50.chunk.css.map": "/brandvilla/static/css/2.1b77bb50.chunk.css.map",
-    "static/css/main.411da2ac.chunk.css.map": "/brandvilla/static/css/main.411da2ac.chunk.css.map",
-    "static/js/2.c8b52a6b.chunk.js.LICENSE.txt": "/brandvilla/static/js/2.c8b52a6b.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/brandvilla/static/media/fa-solid-900.efbd5d20.eot",
-    "static/media/loading.46872f70.gif": "/brandvilla/static/media/loading.46872f70.gif",
-    "static/media/pattern_react.png": "/brandvilla/static/media/pattern_react.01996482.png"
+    "main.css": "/static/css/main.411da2ac.chunk.css",
+    "main.js": "/static/js/main.7db7022d.chunk.js",
+    "main.js.map": "/static/js/main.7db7022d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.002edded.js",
+    "runtime-main.js.map": "/static/js/runtime-main.002edded.js.map",
+    "static/css/2.a7a4ea20.chunk.css": "/static/css/2.a7a4ea20.chunk.css",
+    "static/js/2.6894be23.chunk.js": "/static/js/2.6894be23.chunk.js",
+    "static/js/2.6894be23.chunk.js.map": "/static/js/2.6894be23.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a7a4ea20.chunk.css.map": "/static/css/2.a7a4ea20.chunk.css.map",
+    "static/css/main.411da2ac.chunk.css.map": "/static/css/main.411da2ac.chunk.css.map",
+    "static/js/2.6894be23.chunk.js.LICENSE.txt": "/static/js/2.6894be23.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/loading.46872f70.gif": "/static/media/loading.46872f70.gif",
+    "static/media/pattern_react.png": "/static/media/pattern_react.01996482.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a49621.js",
-    "static/css/2.1b77bb50.chunk.css",
-    "static/js/2.c8b52a6b.chunk.js",
+    "static/js/runtime-main.002edded.js",
+    "static/css/2.a7a4ea20.chunk.css",
+    "static/js/2.6894be23.chunk.js",
     "static/css/main.411da2ac.chunk.css",
     "static/js/main.7db7022d.chunk.js"
   ]
