@@ -1,6 +1,6 @@
 "# Brandvilla" 
 
-> This project was a submitted at web3confindia 2022
+
 
 ## Instructions to run the project locally
   
